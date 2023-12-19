@@ -19,4 +19,4 @@ In your BepInEx/config/LethalPresents.cfg the following options are present:
 ### 1.0.0
 * Initial release
 
-## Credits to the original mod https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/
+# Credits to the original mod https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/
