@@ -1,5 +1,5 @@
-# LethalPresents
-A mod which gives Presents a chance of spawning a random enemy when opened.
+# LethalPresentsExperimental
+Small tweak to the original mod LethalPresents. Even when opening a present outside now "inside" enemies can spawn from the gift also.
 
 # Configuration
 In your BepInEx/config/LethalPresents.cfg the following options are present:
@@ -16,15 +16,7 @@ In your BepInEx/config/LethalPresents.cfg the following options are present:
 
 # Releases
 
-### 1.0.3
-* Fixed turrets and mines not spawning when there are no regular enemies available for spawn
- 
-### 1.0.2
-* Added config
-* Added mines and turrets spawning
- 
-### 1.0.1
-* Fixed spawn chance being 100%
- 
 ### 1.0.0
 * Initial release
+
+## Credits to the original mod https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/
