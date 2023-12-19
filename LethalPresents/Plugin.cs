@@ -82,7 +82,7 @@ namespace LethalPresents
                 }
             }).ToList();
 
-            List<SpawnableEnemyWithRarity> OutsideEnemies = currentLevel.OutsideEnemies.Where(e =>
+            List<SpawnableEnemyWithRarity> OutsideEnemies = currentLevel.OutsideEnemies.Union(currentLevel.Enemies).Where(e =>
             {
                 if (disabledEnemies.Contains(e.enemyType.enemyName))
                 {
